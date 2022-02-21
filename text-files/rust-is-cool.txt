@@ -1,0 +1,1 @@
+Rust is super cool and easier than C.

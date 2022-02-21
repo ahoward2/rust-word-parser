@@ -1,2 +1,0 @@
-In the words of George Hotz, writing React code is basically translating the shitty language of
-business logic into code. Its true though.
